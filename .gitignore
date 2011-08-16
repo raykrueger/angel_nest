@@ -1,6 +1,7 @@
 .DS_Store
 .idea
 .bundle
+.rvmrc
 
 config/database.yml
 public/uploads/
